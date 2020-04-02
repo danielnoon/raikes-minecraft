@@ -2,3 +2,4 @@ world* filter=lfs diff=lfs merge=lfs -text
 world/ filter=lfs diff=lfs merge=lfs -text
 world_nether/ filter=lfs diff=lfs merge=lfs -text
 world_the_end/ filter=lfs diff=lfs merge=lfs -text
+*.mca filter=lfs diff=lfs merge=lfs -text
