@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "cc04d59c-5523-4731-8893-9e57a01bf699",
+    "name": "Axis710",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8ab325e7-8dc4-4583-8c98-25dd4434c97f",
+    "name": "Maximus3131",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c76df6fd-6b80-4d34-94d5-ced4a1e78b6b",
+    "name": "supermegadex",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
