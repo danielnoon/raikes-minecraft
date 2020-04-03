@@ -236,6 +236,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2020-04-02 18:59:28 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2020-04-02 11:09:02 -0500"
@@ -394,7 +400,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:dark_forest": "2020-04-02 11:09:14 -0500"
+      "minecraft:desert": "2020-04-02 18:58:52 -0500",
+      "minecraft:dark_forest": "2020-04-02 11:09:14 -0500",
+      "minecraft:plains": "2020-04-02 18:58:26 -0500"
     },
     "done": false
   },
@@ -419,6 +427,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-04-02 11:09:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-04-02 18:59:28 -0500"
     },
     "done": true
   },
