@@ -47,6 +47,10 @@ users:
     groups:
     - user
     name: Amaz
+  5dd59e3c-1c43-4805-afc6-916012905b68:
+    groups:
+    - user
+    name: 5tar_Lord
 groups:
   default:
     permissions:

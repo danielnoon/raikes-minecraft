@@ -1,4 +1,8 @@
+[01:12:00] [Server thread/INFO]: 5tar_Lord fell out of the world
+[01:14:33] [Server thread/INFO]: 5tar_Lord lost connection: Disconnected
+[01:14:33] [Server thread/INFO]: 5tar_Lord left the game
 [03:00:01] [Thread-1/INFO]: Stopping server
+[03:00:01] [Thread-1/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.5
 [03:00:01] [Thread-1/INFO]: Saving players
 [03:00:01] [Thread-1/INFO]: Saving worlds
 [03:00:01] [Thread-1/INFO]: Saving chunks for level 'world'/minecraft:overworld
