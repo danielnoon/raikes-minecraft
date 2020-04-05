@@ -19,11 +19,17 @@ aliases:
   - "gamemode $1-"
   gm s:
   - "gamemode survival-"
+  gms sur:
+  - "gamemode survival-"
   gm sp:
   - "gamemode spectator-"
   gm spec:
   - "gamemode spectator-"
   gm c:
   - "gamemode creative-"
+  gm crea:
+  - "gamemode creative-"
   gm a:
+  - "gamemode adventure-"
+  gm ad:
   - "gamemode adventure-"
