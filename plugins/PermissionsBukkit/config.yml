@@ -51,6 +51,9 @@ users:
     groups:
     - user
     name: 5tar_Lord
+  08e0d00f-d703-49e2-ae12-5f0c1e5e6711:
+    groups:
+    - user
 groups:
   default:
     permissions:
