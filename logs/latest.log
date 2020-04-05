@@ -1,345 +1,159 @@
-[03:00:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[03:00:43] [Server thread/INFO]: Loading properties
-[03:00:43] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a03b1fd-bbe3d58 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[03:00:44] [Server thread/INFO]: Debug logging is disabled
-[03:00:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:00:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:00:44] [Server thread/INFO]: Default game type: SURVIVAL
-[03:00:44] [Server thread/INFO]: Generating keypair
-[03:00:45] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
-[03:00:45] [Server thread/INFO]: Using epoll channel type
-[03:00:46] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[03:00:57] [Server thread/WARN]: Legacy plugin PermissionsBukkit v2.5 does not specify an api-version.
-[03:00:57] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
-[03:00:57] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.5
-[03:00:57] [Server thread/INFO]: Preparing level "world"
-[03:00:57] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[03:01:26] [Server thread/INFO]: Loaded 6 recipes
-[03:01:31] [Server thread/INFO]: -------- World Settings For [world] --------
-[03:01:31] [Server thread/INFO]: View Distance: 10
-[03:01:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:01:31] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:01:31] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:01:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[03:01:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:01:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:01:31] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:01:31] [Server thread/INFO]: Mob Spawn Range: 6
-[03:01:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Potato Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[03:01:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[03:01:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:01:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[03:01:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[03:01:31] [Server thread/INFO]: Max TNT Explosions: 100
-[03:01:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:01:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[03:01:32] [Server thread/INFO]: View Distance: 10
-[03:01:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:01:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:01:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:01:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[03:01:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:01:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:01:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:01:32] [Server thread/INFO]: Mob Spawn Range: 6
-[03:01:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Potato Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[03:01:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:01:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[03:01:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[03:01:32] [Server thread/INFO]: Max TNT Explosions: 100
-[03:01:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:01:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[03:01:32] [Server thread/INFO]: View Distance: 10
-[03:01:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:01:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:01:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:01:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[03:01:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:01:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:01:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:01:32] [Server thread/INFO]: Mob Spawn Range: 6
-[03:01:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Potato Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[03:01:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[03:01:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:01:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[03:01:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[03:01:32] [Server thread/INFO]: Max TNT Explosions: 100
-[03:01:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:01:32] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:34] [Server thread/INFO]: Preparing spawn area: 23%
-[03:01:35] [Server thread/INFO]: Time elapsed: 3391 ms
-[03:01:35] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[03:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:37] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[03:01:37] [Server thread/INFO]: Time elapsed: 1909 ms
-[03:01:37] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[03:01:37] [Server thread/INFO]: Preparing spawn area: 0%
-[03:01:38] [Server thread/INFO]: Preparing spawn area: 83%
-[03:01:38] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[03:01:39] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[03:01:39] [Server-Worker-1/INFO]: Preparing spawn area: 89%
-[03:01:39] [Server thread/INFO]: Time elapsed: 2346 ms
-[03:01:39] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
-[03:01:39] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.5
-[03:01:40] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
-[03:01:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:01:40] [Server thread/INFO]: Done (42.769s)! For help, type "help"
-[03:01:40] [Server thread/INFO]: Starting GS4 status listener
-[03:01:40] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[04:52:22] [User Authenticator #1/INFO]: UUID of player Fetish is 8bea7c8c-80bc-41f1-9e81-d2e560cd2db1
-[04:52:22] [Server thread/INFO]: Fetish[/173.239.232.158:63211] logged in with entity id 75 at ([world]-159.5, 64.0, -159.5)
-[04:52:44] [Async Chat Thread - #0/INFO]: <Fetish> .
-[04:52:55] [Server thread/INFO]: Fetish lost connection: Disconnected
-[04:52:55] [Server thread/INFO]: Fetish left the game
-[08:12:40] [User Authenticator #2/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
-[08:12:41] [Server thread/INFO]: Maximus3131[/35.133.98.84:28586] logged in with entity id 215 at ([world]-906.7228678875513, 49.0, 54.98873156720749)
-[08:12:51] [Server thread/INFO]: Maximus3131 issued server command: /gamemode spectator
-[08:12:51] [Server thread/INFO]: [Maximus3131: Set own game mode to Spectator Mode]
-[08:12:59] [Server thread/INFO]: Maximus3131 issued server command: /tp -2200 -1000
-[08:13:03] [Server thread/INFO]: Maximus3131 issued server command: /tp -2200 70 -1000
-[08:13:03] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to -2199.5, 70.0, -999.5]
-[08:13:18] [Server thread/INFO]: Maximus3131 issued server command: /gamemode creative
-[08:13:18] [Server thread/INFO]: [Maximus3131: Set own game mode to Creative Mode]
-[08:14:25] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[08:14:43] [Server thread/INFO]: Maximus3131 issued server command: /openender JollySheep
-[08:18:41] [Server thread/INFO]: Maximus3131 issued server command: /openinv Fetish
-[08:19:28] [Server thread/INFO]: Maximus3131 issued server command: /perms setrank 08e0d00f-d703-49e2-ae12-5f0c1e5e6711 user
-[08:19:37] [Server thread/INFO]: Maximus3131 issued server command: /perms rank users
-[08:19:40] [Server thread/INFO]: Maximus3131 issued server command: /perms rank 08e0d00f-d703-49e2-ae12-5f0c1e5e6711
-[08:19:52] [Server thread/INFO]: Maximus3131 issued server command: /perms group list
-[08:19:55] [Server thread/INFO]: Maximus3131 issued server command: /perms group players user
-[08:20:27] [Server thread/INFO]: Maximus3131 issued server command: /gamemode sur
-[08:21:21] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
-[08:21:21] [Server thread/INFO]: Maximus3131 left the game
-[08:26:05] [User Authenticator #3/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
-[08:26:06] [Server thread/INFO]: Maximus3131[/35.133.98.84:44206] logged in with entity id 1970 at ([world]-2091.681662419832, 64.0, -1069.9637100003997)
-[08:26:16] [Server thread/INFO]: Maximus3131 issued server command: /tp -900 70 0
-[08:26:16] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to -899.5, 70.0, 0.5]
-[08:26:32] [Server thread/INFO]: Maximus3131 issued server command: /gamemode survival
-[08:26:32] [Server thread/INFO]: [Maximus3131: Set own game mode to Survival Mode]
-[08:32:26] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
-[08:32:26] [Server thread/INFO]: Maximus3131 left the game
-[08:32:42] [User Authenticator #4/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
-[08:32:43] [Server thread/INFO]: Maximus3131[/35.133.98.84:11841] logged in with entity id 3711 at ([world]-853.2626210544838, 72.0, -3.541594465176456)
-[08:46:54] [Server thread/INFO]: Maximus3131 issued server command: /time set 1000
-[08:46:54] [Server thread/INFO]: [Maximus3131: Set the time to 1000]
-[08:53:44] [Server thread/INFO]: Maximus3131 issued server command: /time set 1100
-[08:53:44] [Server thread/INFO]: [Maximus3131: Set the time to 1100]
-[08:54:17] [Server thread/INFO]: Maximus3131 issued server command: /time set 1200
-[08:54:17] [Server thread/INFO]: [Maximus3131: Set the time to 1200]
-[08:55:05] [Server thread/INFO]: Maximus3131 issued server command: /time
-[09:03:40] [Server thread/INFO]: Maximus3131 issued server command: /time set 1200
-[09:03:40] [Server thread/INFO]: [Maximus3131: Set the time to 1200]
-[09:17:13] [Server thread/INFO]: Maximus3131 issued server command: /time set 1000
-[09:17:13] [Server thread/INFO]: [Maximus3131: Set the time to 1000]
-[09:22:20] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
-[09:22:20] [Server thread/INFO]: Maximus3131 left the game
-[09:52:22] [User Authenticator #5/INFO]: UUID of player JollySheep is d609d9cd-9ac7-4036-9423-2bb0f802293f
-[09:52:22] [Server thread/INFO]: JollySheep[/68.13.57.80:52579] logged in with entity id 10638 at ([world]-2095.350438270112, 64.0, -1072.8635761977507)
-[10:22:21] [Server thread/INFO]: JollySheep has made the advancement [A Throwaway Joke]
-[10:30:05] [User Authenticator #6/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
-[10:30:05] [Server thread/INFO]: Maximus3131[/35.133.98.84:21207] logged in with entity id 18544 at ([world]-1754.560035974757, 69.0, -1186.8870567615013)
-[10:36:04] [Server thread/INFO]: There are 2 of a max 20 players online: JollySheep, Maximus3131
-[10:37:16] [Async Chat Thread - #1/INFO]: <JollySheep> hello
-[10:37:20] [Async Chat Thread - #1/INFO]: <Maximus3131> howdy fren!
-[10:37:24] [Server thread/INFO]: [Server] yo
-[10:37:27] [Async Chat Thread - #1/INFO]: <Maximus3131> server!!
-[10:37:32] [Async Chat Thread - #1/INFO]: <JollySheep> wow
-[10:37:34] [Async Chat Thread - #1/INFO]: <JollySheep> incredible
-[10:37:35] [Async Chat Thread - #1/INFO]: <Maximus3131> waddup?
-[10:37:46] [Server thread/INFO]: [Server] trying to grant you permissions
-[10:37:50] [Async Chat Thread - #1/INFO]: <Maximus3131> who
-[10:37:53] [Server thread/INFO]: [Server] @kieran
-[10:37:56] [Async Chat Thread - #1/INFO]: <Maximus3131> :D
-[10:37:57] [Async Chat Thread - #1/INFO]: <Maximus3131> for?
-[10:38:04] [Server thread/INFO]: [Server] ssh access
-[10:38:07] [Async Chat Thread - #1/INFO]: <Maximus3131> :D
-[10:38:21] [Async Chat Thread - #1/INFO]: <Maximus3131> sorry for bothering you so much xD
-[10:38:27] [Async Chat Thread - #1/INFO]: <Maximus3131> i hope your appointment went well!
-[10:38:58] [Server thread/INFO]: [Server] it's fine! And it went alright. Basically walked in, talked for a bit, and that was it
-[10:39:06] [Async Chat Thread - #1/INFO]: <Maximus3131> aye glad to hear! :D
-[10:39:44] [Async Chat Thread - #1/INFO]: <Maximus3131> bro someone named Fetish joined the server xD I wasn't there and they don't have perms but like bro
-[10:39:53] [Server thread/INFO]: [Server] bruh
-[10:40:05] [Async Chat Thread - #1/INFO]: <Maximus3131> i hope/think its just some rando who stumbled across this ip
-[10:40:23] [Async Chat Thread - #1/INFO]: <JollySheep> give keck the address
-[10:40:25] [Async Chat Thread - #1/INFO]: <Maximus3131> xD
-[10:40:27] [Server thread/INFO]: [Server] that'd be kinda hard to do lol
-[10:40:32] [Async Chat Thread - #1/INFO]: <Maximus3131> huh
-[10:40:33] [Server thread/INFO]: [Server] omg yes
-[10:40:43] [Server thread/INFO]: [Server] for someone to stumble across the server
-[10:40:46] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[10:40:49] [Async Chat Thread - #1/INFO]: <Maximus3131> ye
-[10:40:55] [Server thread/INFO]: [Server] it's not published anywhere
-[10:40:59] [Async Chat Thread - #1/INFO]: <Maximus3131> gotcha
-[10:41:00] [Async Chat Thread - #1/INFO]: <Maximus3131> well
-[10:41:03] [Async Chat Thread - #1/INFO]: <Maximus3131> i hope they don't come back lmao
-[10:42:51] [Async Chat Thread - #2/INFO]: <Maximus3131> and once you get ssh figured out you'll just have to tell me the commands that are needed to run (i know my way around a server generally [im assuming its ubuntu if its not that might be slightly diff story])
-[10:43:27] [Server thread/INFO]: Maximus3131 issued server command: /gamemode spectator
-[10:43:27] [Server thread/INFO]: [Maximus3131: Set own game mode to Spectator Mode]
-[10:43:29] [Server thread/INFO]: Maximus3131 issued server command: /tp JollySheep
-[10:43:29] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to JollySheep]
-[10:43:48] [Server thread/INFO]: JollySheep has made the advancement [Voluntary Exile]
-[10:43:50] [Async Chat Thread - #2/INFO]: <Maximus3131> oh my goodness jolly you have so much gunpowder
-[10:43:55] [Async Chat Thread - #2/INFO]: <Maximus3131> oh shoot
-[10:44:04] [Async Chat Thread - #2/INFO]: <Maximus3131> wait
-[10:44:09] [Async Chat Thread - #2/INFO]: <Maximus3131> where was he that you just killed him?
-[10:44:15] [Async Chat Thread - #2/INFO]: <JollySheep> my house
-[10:44:17] [Async Chat Thread - #2/INFO]: <Maximus3131> dang
-[10:44:20] [Async Chat Thread - #2/INFO]: <JollySheep> y?
-[10:44:26] [Async Chat Thread - #2/INFO]: <Maximus3131> dont go back to ur village lmao else a raid would trigger
-[10:44:33] [Async Chat Thread - #2/INFO]: <JollySheep> ya i know. I got milk
-[10:44:39] [Async Chat Thread - #2/INFO]: <JollySheep> you near a bed?
-[10:44:39] [Async Chat Thread - #2/INFO]: <Maximus3131> GoT mIlK
-[10:44:43] [Async Chat Thread - #2/INFO]: <Maximus3131> spectator
-[10:44:44] [Async Chat Thread - #2/INFO]: <Maximus3131> so u good
-[10:44:51] [Async Chat Thread - #2/INFO]: <JollySheep> phew ty
-[10:44:56] [Async Chat Thread - #2/INFO]: <Maximus3131> ye
-[10:46:10] [Async Chat Thread - #3/INFO]: <Maximus3131> oh boy spectating a bee is a true ride
-[10:46:31] [Async Chat Thread - #3/INFO]: <Maximus3131> hes just skrting around and really loving the flowers
-[10:58:25] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[10:58:34] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[10:58:42] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[11:04:09] [Server thread/INFO]: Maximus3131 issued server command: /tp JollySheep
-[11:04:09] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to JollySheep]
-[11:04:44] [Server thread/INFO]: Maximus3131 issued server command: /gamemode survival
-[11:04:44] [Server thread/INFO]: [Maximus3131: Set own game mode to Survival Mode]
-[11:06:13] [Async Chat Thread - #4/INFO]: <JollySheep> sleep?
-[11:07:12] [Server thread/INFO]: Maximus3131 issued server command: /gamemode spectator
-[11:07:12] [Server thread/INFO]: [Maximus3131: Set own game mode to Spectator Mode]
-[11:07:15] [Async Chat Thread - #5/INFO]: <Maximus3131> ye
-[11:07:31] [Async Chat Thread - #5/INFO]: <JollySheep> ok im in bed
-[11:07:35] [Async Chat Thread - #5/INFO]: <Maximus3131> yuh
-[11:07:35] [Async Chat Thread - #5/INFO]: <JollySheep> ty
-[11:11:08] [Async Chat Thread - #6/INFO]: <Maximus3131> yw
-[11:13:42] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[11:16:18] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard objectives list
-[11:16:29] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard objectives modify Level rendertype hearts
-[11:16:29] [Server thread/INFO]: [Maximus3131: Changed objective [Level] render type]
-[11:16:33] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard objectives modify Level rendertype integer
-[11:16:33] [Server thread/INFO]: [Maximus3131: Changed objective [Level] render type]
-[11:16:56] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players enable @a
-[11:17:01] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players enable @e
-[11:17:07] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players enable @a Level
-[11:17:20] [Server thread/INFO]: Maximus3131 issued server command: /schedule function
-[11:17:40] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players list
-[11:17:50] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players get Maximus3131
-[11:17:56] [Server thread/INFO]: Maximus3131 issued server command: /scoreboard players get Maximus3131 Level
-[11:18:34] [Async Chat Thread - #7/INFO]: <JollySheep> you near bed?
-[11:18:38] [Async Chat Thread - #7/INFO]: <Maximus3131> spectator
-[11:18:43] [Async Chat Thread - #7/INFO]: <JollySheep> ah
-[11:18:47] [Async Chat Thread - #7/INFO]: <Maximus3131> oh my goodness i had no idea how absolutely incredible spectating a creeper is
-[11:18:50] [Async Chat Thread - #7/INFO]: <Maximus3131> this is wild
-[11:19:09] [Async Chat Thread - #7/INFO]: <Maximus3131> everything is like CRAZY green and CRAZY pixelated
-[11:19:19] [Async Chat Thread - #7/INFO]: <Maximus3131> poor guy no wonder he just wants to blow up
-[11:19:42] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[11:21:13] [Async Chat Thread - #8/INFO]: <Maximus3131> bro you can spectate a heckin lead that's tied up on a fence xD xD xD
-[11:21:23] [Async Chat Thread - #8/INFO]: <Maximus3131> wat is this game
-[11:21:31] [Async Chat Thread - #8/INFO]: <JollySheep> lmfao
-[11:26:15] [Server thread/INFO]: Maximus3131 issued server command: /tp -2200 70 -1000
-[11:26:15] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to -2199.5, 70.0, -999.5]
-[11:26:38] [Server thread/INFO]: Maximus3131 issued server command: /gamemode creative
-[11:26:38] [Server thread/INFO]: [Maximus3131: Set own game mode to Creative Mode]
-[11:26:50] [Server thread/INFO]: Maximus3131 issued server command: /gamemode spectator
-[11:26:50] [Server thread/INFO]: [Maximus3131: Set own game mode to Spectator Mode]
-[11:27:00] [Server thread/INFO]: Maximus3131 issued server command: /tp JollySheep
-[11:27:00] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to JollySheep]
-[11:29:30] [Server thread/INFO]: Maximus3131 issued server command: /openinv JollySheep
-[11:36:30] [Async Chat Thread - #9/INFO]: <Maximus3131> hey bro just groupme message me when you're done, I've got access to the server now so I can run backups/add stuff on my own, and I have a few things to add and due to that one error (and thus re-doing the way things were run) there hasn't been a backup in
-[11:36:41] [Async Chat Thread - #9/INFO]: <Maximus3131> 2 days which isnt hot and won't happen again, so just lmk and ill run it once you're offline, no rush
-[11:36:44] [Async Chat Thread - #9/INFO]: <Maximus3131> ima go do some work
-[11:36:45] [Async Chat Thread - #9/INFO]: <JollySheep> are you talking to me?
-[11:36:47] [Async Chat Thread - #9/INFO]: <Maximus3131> yes
-[11:36:48] [Async Chat Thread - #9/INFO]: <Maximus3131> sorry xD
-[11:36:54] [Async Chat Thread - #9/INFO]: <JollySheep> when I'm done with what?
-[11:37:00] [Async Chat Thread - #9/INFO]: <Maximus3131> this game sesh
-[11:37:03] [Async Chat Thread - #9/INFO]: <JollySheep> ah okay
-[11:37:09] [Async Chat Thread - #9/INFO]: <Maximus3131> dope seeya
-[11:37:12] [Async Chat Thread - #9/INFO]: <JollySheep> cya
-[11:37:13] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
-[11:37:13] [Server thread/INFO]: Maximus3131 left the game
-[11:47:57] [User Authenticator #7/INFO]: UUID of player 5tar_Lord is 5dd59e3c-1c43-4805-afc6-916012905b68
-[11:47:57] [Server thread/INFO]: 5tar_Lord[/72.2.175.140:55879] logged in with entity id 35897 at ([world]-907.9726045189168, 48.0, 68.30000001192093)
-[11:48:29] [Async Chat Thread - #10/INFO]: <5tar_Lord> Good morning!
-[11:48:37] [Async Chat Thread - #10/INFO]: <JollySheep> howdy
-[11:50:19] [Async Chat Thread - #11/INFO]: <JollySheep> you near a bed?
-[11:52:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4e316ca[id=<null>,name=Maximus3131,properties={},legacy=false] (/35.133.98.84:19434): Took too long to log in
-[11:52:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e316ca[id=<null>,name=Maximus3131,properties={},legacy=false] (/35.133.98.84:19434) lost connection: Timed out
-[12:11:01] [Server thread/INFO]: JollySheep lost connection: Disconnected
-[12:11:01] [Server thread/INFO]: JollySheep left the game
-[12:17:26] [User Authenticator #8/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
-[12:17:26] [Server thread/INFO]: Maximus3131[/35.133.98.84:21342] logged in with entity id 42262 at ([world]-1151.282362763709, 91.62835640021528, 243.72636859026142)
-[12:17:32] [Async Chat Thread - #12/INFO]: <Maximus3131> oh hey there botha
-[12:17:38] [Async Chat Thread - #12/INFO]: <5tar_Lord> morning
-[12:18:05] [Async Chat Thread - #12/INFO]: <Maximus3131> good mornin!
-[12:18:22] [Async Chat Thread - #12/INFO]: <Maximus3131> how long do you think youll be on for?
-[12:18:26] [Async Chat Thread - #12/INFO]: <Maximus3131> jw
-[12:18:43] [Async Chat Thread - #12/INFO]: <5tar_Lord> I can get off if needed, I'm just afking while talking with people
-[12:18:48] [Async Chat Thread - #12/INFO]: <Maximus3131> ah gotcha
-[12:18:51] [Server thread/INFO]: Maximus3131 issued server command: /tp 5tar_Lord
-[12:18:51] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to 5tar_Lord]
-[12:19:22] [Async Chat Thread - #12/INFO]: <Maximus3131> yeah that would be nice actually, ima try to make a backup/restore quick
-[12:19:29] [Async Chat Thread - #12/INFO]: <Maximus3131> it shouldnt be more than a few min
-[12:19:30] [Async Chat Thread - #12/INFO]: <Maximus3131> ill text ya
-[12:19:40] [Async Chat Thread - #12/INFO]: <5tar_Lord> Ok, ceya later!
-[12:19:48] [Server thread/INFO]: 5tar_Lord lost connection: Disconnected
-[12:19:48] [Server thread/INFO]: 5tar_Lord left the game
-[12:19:50] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
-[12:19:50] [Server thread/INFO]: Maximus3131 left the game
-[12:23:34] [Thread-1/INFO]: Stopping server
-[12:23:34] [Thread-1/INFO]: [PermissionsBukkit] Disabling PermissionsBukkit v2.5
-[12:23:34] [Thread-1/INFO]: Saving players
-[12:23:34] [Thread-1/INFO]: Saving worlds
-[12:23:34] [Thread-1/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:37:08] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[12:37:08] [Server thread/INFO]: Loading properties
+[12:37:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a03b1fd-bbe3d58 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[12:37:08] [Server thread/INFO]: Debug logging is disabled
+[12:37:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:37:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:37:09] [Server thread/INFO]: Default game type: SURVIVAL
+[12:37:09] [Server thread/INFO]: Generating keypair
+[12:37:10] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[12:37:10] [Server thread/INFO]: Using epoll channel type
+[12:37:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[12:37:22] [Server thread/WARN]: Legacy plugin PermissionsBukkit v2.5 does not specify an api-version.
+[12:37:22] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[12:37:22] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.5
+[12:37:22] [Server thread/INFO]: Preparing level "world"
+[12:37:22] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[12:37:57] [Server thread/INFO]: Loaded 6 recipes
+[12:37:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:37:58] [Server thread/INFO]: View Distance: 10
+[12:37:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:37:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:37:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:37:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:58] [Server thread/INFO]: Mob Spawn Range: 6
+[12:37:58] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:37:58] [Server thread/INFO]: View Distance: 10
+[12:37:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:37:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:37:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:37:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:58] [Server thread/INFO]: Mob Spawn Range: 6
+[12:37:58] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:37:58] [Server thread/INFO]: View Distance: 10
+[12:37:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:37:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:37:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:37:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:37:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:37:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:37:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:37:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[12:37:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:37:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:37:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[12:37:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:37:58] [Server thread/INFO]: Mob Spawn Range: 6
+[12:37:58] [Server thread/INFO]: Max TNT Explosions: 100
+[12:37:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:37:58] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[12:38:00] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:00] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:00] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:00] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:00] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:01] [Server thread/INFO]: Preparing spawn area: 13%
+[12:38:02] [Server thread/INFO]: Time elapsed: 3382 ms
+[12:38:02] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[12:38:03] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:03] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:03] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:03] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:03] [Server thread/INFO]: Time elapsed: 1752 ms
+[12:38:03] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[12:38:04] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:04] [Server thread/INFO]: Preparing spawn area: 83%
+[12:38:04] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[12:38:05] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[12:38:05] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[12:38:05] [Server thread/INFO]: Time elapsed: 2056 ms
+[12:38:05] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[12:38:06] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.5
+[12:38:06] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[12:38:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:38:06] [Server thread/INFO]: Done (43.604s)! For help, type "help"
+[12:38:06] [Server thread/INFO]: Starting GS4 status listener
+[12:38:06] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[12:46:32] [User Authenticator #1/INFO]: UUID of player 5tar_Lord is 5dd59e3c-1c43-4805-afc6-916012905b68
+[12:46:33] [Server thread/INFO]: 5tar_Lord[/72.2.175.140:56062] logged in with entity id 109 at ([world]-909.3565594393485, 48.0, 64.52159886897749)
+[12:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5018ms or 100 ticks behind
+[12:50:56] [Server thread/WARN]: Horse moved wrongly!
+[12:50:56] [Server thread/WARN]: Horse moved wrongly!
+[13:17:55] [User Authenticator #2/INFO]: UUID of player Maximus3131 is 8ab325e7-8dc4-4583-8c98-25dd4434c97f
+[13:17:56] [Server thread/INFO]: Maximus3131[/35.133.98.84:41060] logged in with entity id 4370 at ([world]-908.9555582397832, 48.81248959902389, 68.6625191093487)
+[13:18:01] [Server thread/INFO]: Maximus3131 issued server command: /tp 5tar_Lord
+[13:18:01] [Server thread/INFO]: [Maximus3131: Teleported Maximus3131 to 5tar_Lord]
+[13:18:15] [Async Chat Thread - #0/INFO]: <Maximus3131> hullo there
+[13:18:19] [Async Chat Thread - #0/INFO]: <5tar_Lord> heyo
+[13:18:33] [Async Chat Thread - #0/INFO]: <Maximus3131> whatcha up to?
+[13:18:38] [Async Chat Thread - #0/INFO]: <Maximus3131> mind if i kick you off for a few?
+[13:18:47] [Async Chat Thread - #0/INFO]: <5tar_Lord> still talking with people, I can get off for a bit, sure
+[13:18:49] [Server thread/INFO]: 5tar_Lord lost connection: Disconnected
+[13:18:49] [Server thread/INFO]: 5tar_Lord left the game
+[13:18:51] [Server thread/INFO]: Maximus3131 lost connection: Disconnected
+[13:18:51] [Server thread/INFO]: Maximus3131 left the game
