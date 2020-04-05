@@ -16,20 +16,20 @@ aliases:
   icanhasbukkit:
   - "version $1-"
   gm:
-  - "gamemode $1-"
-  gm s:
-  - "gamemode survival-"
-  gms sur:
-  - "gamemode survival-"
-  gm sp:
-  - "gamemode spectator-"
-  gm spec:
-  - "gamemode spectator-"
-  gm c:
-  - "gamemode creative-"
-  gm crea:
-  - "gamemode creative-"
-  gm a:
-  - "gamemode adventure-"
-  gm ad:
-  - "gamemode adventure-"
+  - "gamemode $$1"
+  gms:
+  - "gamemode survival $1"
+  survival:
+  - "gamemode survival $1"
+  gmsp:
+  - "gamemode spectator $1"
+  spectator:
+  - "gamemode spectator $1"
+  gmc:
+  - "gamemode creative $1"
+  creative:
+  - "gamemode creative $1"
+  gma:
+  - "gamemode adventure $1"
+  adventure:
+  - "gamemode adventure $1"
