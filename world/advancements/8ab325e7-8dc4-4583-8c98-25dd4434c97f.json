@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2020-04-05 14:38:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-02-21 15:08:26 -0600"
@@ -1427,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2020-04-05 14:38:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-03-10 00:14:36 -0500"
@@ -1529,6 +1541,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-03-05 21:12:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2020-04-05 14:38:39 -0500"
     },
     "done": true
   },
@@ -1817,6 +1835,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-02-20 21:24:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2020-04-05 14:38:39 -0500"
     },
     "done": true
   },
@@ -2147,7 +2171,8 @@
       "rotten_flesh": "2020-02-20 23:59:31 -0600",
       "melon_slice": "2020-03-10 00:39:38 -0500",
       "cooked_rabbit": "2020-03-09 22:55:19 -0500",
-      "cooked_chicken": "2020-03-07 21:51:09 -0600"
+      "cooked_chicken": "2020-03-07 21:51:09 -0600",
+      "carrot": "2020-04-05 14:29:18 -0500"
     },
     "done": false
   },
@@ -2759,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2020-04-05 14:38:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-10 00:23:21 -0500"
@@ -2768,6 +2799,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2020-03-18 14:05:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2020-04-05 14:38:39 -0500"
     },
     "done": true
   },

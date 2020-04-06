@@ -592,6 +592,7 @@
       "minecraft:pillager": "2020-03-21 13:29:01 -0500",
       "minecraft:blaze": "2020-04-03 21:28:00 -0500",
       "minecraft:skeleton": "2020-03-20 17:59:22 -0500",
+      "minecraft:ghast": "2020-04-05 17:53:08 -0500",
       "minecraft:magma_cube": "2020-04-03 21:40:49 -0500",
       "minecraft:spider": "2020-03-20 17:31:18 -0500",
       "minecraft:creeper": "2020-03-20 17:32:44 -0500",
@@ -2320,6 +2321,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2020-03-28 21:00:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2020-04-05 17:31:02 -0500"
     },
     "done": true
   },
