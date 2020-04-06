@@ -1,0 +1,45 @@
+# # Playtime By F64_Rx - Need Help? PM me on Spigot or post in the discussion.
+# # =================
+# # | CONFIGURATION |
+# # =================
+# 
+# # available placeholders
+# # %player% - returns the player name
+# # %time% - shows time played
+# # %timesjoined% - shows the amount of times the player has joined the server
+# # %serveruptime% - shows the uptime of the server
+# # %prefix% - shows the prefix
+
+prefix: '&3[&aPlaytime&3]'
+time:
+  second: s
+  minute: m
+  hour: h
+  day: d
+messages:
+  no_permission:
+  - ''
+  - '&8[&bPlayTime&8] &cYou don''t have permission.'
+  - ''
+  not_online:
+  - ''
+  - '&8[&bPlayTime&8] &cPlayer %player% is not online!'
+  - ''
+  player:
+  - ''
+  - '&8[&bPlayTime&8]'
+  - '&b%player%''s Stats are:'
+  - '&bPlayTime: &7%time%'
+  - '&bTimes Joined: &7%timesjoined%'
+  - ''
+  other_players:
+  - ''
+  - '&8[&bPlayTime&8]'
+  - '&b%player%''s Stats are:'
+  - '&bPlayTime: &7%time%'
+  - '&bTimes Joined: &7%timesjoined%'
+  - ''
+  server_uptime:
+  - ''
+  - '&8[&bPlayTime&8] &bServer''s total uptime is %serveruptime%'
+  - ''

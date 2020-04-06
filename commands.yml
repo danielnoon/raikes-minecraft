@@ -14,20 +14,20 @@ command-block-overrides: []
 ignore-vanilla-permissions: false
 aliases:
   icanhasbukkit:
-  - "version $1-"
+  - version $1-
   gms:
-  - "gamemode survival $1"
+  - gamemode survival $1
   survival:
-  - "gamemode survival $1"
+  - gamemode survival $1
   gmsp:
-  - "gamemode spectator $1"
+  - gamemode spectator $1
   spectator:
-  - "gamemode spectator $1"
+  - gamemode spectator $1
   gmc:
-  - "gamemode creative $1"
+  - gamemode creative $1
   creative:
-  - "gamemode creative $1"
+  - gamemode creative $1
   gma:
-  - "gamemode adventure $1"
+  - gamemode adventure $1
   adventure:
-  - "gamemode adventure $1"
+  - gamemode adventure $1
