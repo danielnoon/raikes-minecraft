@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-10 21:36:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-03-20 18:16:54 -0500"
@@ -284,6 +290,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2020-03-20 18:16:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-10 22:37:34 -0500"
     },
     "done": true
   },
@@ -1823,7 +1835,9 @@
       "sweet_berries": "2020-03-26 21:14:42 -0500",
       "cooked_beef": "2020-03-20 18:03:21 -0500",
       "baked_potato": "2020-03-26 22:17:22 -0500",
+      "potato": "2020-04-10 21:56:40 -0500",
       "pumpkin_pie": "2020-03-28 20:44:28 -0500",
+      "bread": "2020-04-10 21:20:05 -0500",
       "cookie": "2020-03-24 17:21:21 -0500",
       "rotten_flesh": "2020-04-03 21:06:00 -0500",
       "salmon": "2020-03-26 21:36:25 -0500",
@@ -2075,6 +2089,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-03-20 18:49:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-10 22:37:34 -0500"
     },
     "done": true
   },
