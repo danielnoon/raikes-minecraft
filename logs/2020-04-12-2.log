@@ -1,0 +1,206 @@
+[03:00:33] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[03:00:33] [Server thread/INFO]: Loading properties
+[03:00:34] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a03b1fd-bbe3d58 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[03:00:34] [Server thread/INFO]: Debug logging is disabled
+[03:00:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:00:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:00:34] [Server thread/INFO]: Default game type: SURVIVAL
+[03:00:34] [Server thread/INFO]: Generating keypair
+[03:00:34] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[03:00:35] [Server thread/INFO]: Using epoll channel type
+[03:00:36] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[03:00:44] [Server thread/WARN]: Legacy plugin PlayTime v2.2-1.8 does not specify an api-version.
+[03:00:44] [Server thread/WARN]: Legacy plugin PermissionsBukkit v2.5 does not specify an api-version.
+[03:00:44] [Server thread/INFO]: [PlayTime] Loading PlayTime v2.2-1.8
+[03:00:44] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.0.8
+[03:00:44] [Server thread/INFO]: [PermissionsBukkit] Loading PermissionsBukkit v2.5
+[03:00:44] [Server thread/INFO]: Preparing level "world"
+[03:00:45] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[03:01:11] [Server thread/INFO]: Loaded 6 recipes
+[03:01:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:01:19] [Server thread/INFO]: View Distance: 10
+[03:01:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:01:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:01:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:01:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:01:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:01:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:01:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:01:20] [Server thread/INFO]: Mob Spawn Range: 6
+[03:01:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:01:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:01:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:01:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[03:01:20] [Server thread/INFO]: Max TNT Explosions: 100
+[03:01:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:01:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:01:20] [Server thread/INFO]: View Distance: 10
+[03:01:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:01:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:01:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:01:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:01:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:01:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:01:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:01:20] [Server thread/INFO]: Mob Spawn Range: 6
+[03:01:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:01:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:01:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:01:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[03:01:20] [Server thread/INFO]: Max TNT Explosions: 100
+[03:01:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:01:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:01:20] [Server thread/INFO]: View Distance: 10
+[03:01:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:01:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:01:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:01:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[03:01:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:01:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:01:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:01:20] [Server thread/INFO]: Mob Spawn Range: 6
+[03:01:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[03:01:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[03:01:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:01:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:01:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[03:01:20] [Server thread/INFO]: Max TNT Explosions: 100
+[03:01:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:01:20] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[03:01:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[03:01:23] [Server thread/INFO]: Preparing spawn area: 34%
+[03:01:23] [Server thread/INFO]: Time elapsed: 3346 ms
+[03:01:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[03:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:25] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:25] [Server thread/INFO]: Time elapsed: 1926 ms
+[03:01:25] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[03:01:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:26] [Server thread/INFO]: Preparing spawn area: 83%
+[03:01:26] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[03:01:27] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[03:01:27] [Server thread/INFO]: Time elapsed: 1993 ms
+[03:01:27] [Server thread/INFO]: [PlayTime] Enabling PlayTime v2.2-1.8
+[03:01:27] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.0.8
+[03:01:27] [Server thread/INFO]: [PermissionsBukkit] Enabling PermissionsBukkit v2.5
+[03:01:27] [Server thread/INFO]: [PermissionsBukkit] Enabled successfully
+[03:01:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:01:27] [Server thread/INFO]: Done (42.957s)! For help, type "help"
+[03:01:27] [Server thread/INFO]: Starting GS4 status listener
+[03:01:27] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[13:26:18] [User Authenticator #1/INFO]: UUID of player JollySheep is d609d9cd-9ac7-4036-9423-2bb0f802293f
+[13:26:19] [Server thread/INFO]: JollySheep[/68.13.57.80:54927] logged in with entity id 134 at ([world]-1074.931658134073, 54.0, 67.69999998807906)
+[14:25:35] [Server thread/INFO]: JollySheep lost connection: Disconnected
+[14:25:35] [Server thread/INFO]: JollySheep left the game
+[14:31:40] [User Authenticator #2/INFO]: UUID of player JollySheep is d609d9cd-9ac7-4036-9423-2bb0f802293f
+[14:31:40] [Server thread/INFO]: JollySheep[/68.13.57.80:58081] logged in with entity id 16431 at ([world]-1145.14125625819, 87.0, 242.0086090820516)
+[15:08:33] [Server thread/INFO]: JollySheep has made the advancement [A Terrible Fortress]
+[15:21:46] [Server thread/INFO]: JollySheep lost connection: Disconnected
+[15:21:46] [Server thread/INFO]: JollySheep left the game
+[15:23:05] [User Authenticator #3/INFO]: UUID of player JollySheep is d609d9cd-9ac7-4036-9423-2bb0f802293f
+[15:23:05] [Server thread/INFO]: JollySheep[/68.13.57.80:60741] logged in with entity id 23332 at ([world]-1488.6426286527885, 71.0, 1292.2078559287847)
+[15:26:59] [Server thread/INFO]: JollySheep has made the advancement [Getting an Upgrade]
+[15:28:00] [Server thread/INFO]: JollySheep has made the advancement [Eye Spy]
+[15:33:15] [User Authenticator #4/INFO]: UUID of player Amaz is 9f1c5e7b-2247-4a2e-a1ff-7e7e5b67be44
+[15:33:16] [Server thread/INFO]: Amaz[/68.13.69.86:55719] logged in with entity id 24731 at ([world]-225.54648934080535, 71.0, 506.39074011622586)
+[15:33:24] [User Authenticator #5/INFO]: UUID of player I_Hate_Lag_ is 500a3e49-1415-4dc4-99ba-09d3ed07238e
+[15:33:24] [Server thread/INFO]: I_Hate_Lag_[/174.58.155.14:52035] logged in with entity id 25035 at ([world]-229.03509736651614, 71.0, 505.59289693635503)
+[15:35:50] [Server thread/INFO]: Villager EntityVillager['Villager'/23726, l='world', x=-1764.73, y=69.00, z=1297.20] died, message: 'Villager was slain by Zombie'
+[15:36:16] [Server thread/INFO]: Villager EntityVillager['Villager'/23727, l='world', x=-1761.84, y=69.00, z=1300.89] died, message: 'Villager was slain by Zombie'
+[15:54:39] [Server thread/INFO]: I_Hate_Lag_ issued server command: /w I_Hate_Lag_ -185 514
+[15:54:52] [Server thread/INFO]: I_Hate_Lag_ issued server command: /w I_Hate_Lag_ -185 507
+[15:55:01] [Server thread/INFO]: I_Hate_Lag_ issued server command: /w I_Hate_Lag_ -191 514
+[15:56:10] [Server thread/INFO]: Amaz has made the advancement [Into Fire]
+[15:59:16] [Server thread/INFO]: Amaz has made the advancement [Local Brewery]
+[15:59:26] [chunk IO worker/ERROR]: Failed to store chunk [-92, 79]
+java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method) ~[?:?]
+	at sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:68) ~[?:?]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:109) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:79) ~[?:?]
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:850) ~[?:?]
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:836) ~[?:?]
+	at net.minecraft.server.v1_15_R1.RegionFile.a(RegionFile.java:277) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.RegionFile$ChunkBuffer.close(RegionFile.java:402) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:188) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:188) ~[?:?]
+	at net.minecraft.server.v1_15_R1.RegionFileCache.write(RegionFileCache.java:100) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.IOWorker.a(SourceFile:163) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.IOWorker.e(SourceFile:152) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:132) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[16:01:27] [Server thread/WARN]: Failed to save player data for JollySheep
+[16:01:27] [Server thread/ERROR]: Couldn't save stats
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:?]
+	at java.io.FileOutputStream.write(FileOutputStream.java:341) ~[?:?]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.IOUtils.write(IOUtils.java:1857) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:1982) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at org.bukkit.craftbukkit.libs.org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:2017) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.ServerStatisticManager.a(ServerStatisticManager.java:59) [server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayerFile(PlayerList.java:367) [server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayers(PlayerList.java:902) [server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1003) [server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824) [server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[16:01:27] [Server thread/ERROR]: Encountered an unexpected exception
+com.google.gson.JsonIOException: java.io.IOException: No space left on device
+	at com.google.gson.Gson.toJson(Gson.java:747) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at com.google.gson.Gson.toJson(Gson.java:703) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.AdvancementDataPlayer.c(AdvancementDataPlayer.java:232) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayerFile(PlayerList.java:373) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
+	at net.minecraft.server.v1_15_R1.PlayerList.savePlayers(PlayerList.java:902) ~[server.jar:git-Spigot-a03b1fd-bbe3d58]
