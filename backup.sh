@@ -9,5 +9,8 @@ git add .
 git commit -am "backup"
 git pull
 git push
+
+sudo chown -R delpinothedragon1 .
+
 git lfs prune
 supervisorctl start minecraft
