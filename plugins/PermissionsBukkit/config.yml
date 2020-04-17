@@ -54,6 +54,10 @@ users:
   08e0d00f-d703-49e2-ae12-5f0c1e5e6711:
     groups:
     - user
+  a6447ba5-d2a7-414b-9da6-5d2783191c69:
+    groups:
+    - user
+    name: JollyGirls
 groups:
   default:
     permissions:
