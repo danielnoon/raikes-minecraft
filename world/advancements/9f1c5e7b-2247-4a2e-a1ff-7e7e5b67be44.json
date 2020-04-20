@@ -1619,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-04-19 18:03:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-20 17:49:04 -0500"
@@ -1872,6 +1878,7 @@
       "bread": "2020-03-24 16:39:33 -0500",
       "cookie": "2020-03-24 18:29:44 -0500",
       "melon_slice": "2020-03-21 12:15:41 -0500",
+      "beetroot": "2020-04-19 18:03:19 -0500",
       "cooked_chicken": "2020-03-20 18:34:00 -0500",
       "mushroom_stew": "2020-04-07 17:43:06 -0500",
       "carrot": "2020-04-05 17:50:20 -0500"
