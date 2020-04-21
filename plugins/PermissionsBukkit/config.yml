@@ -58,6 +58,16 @@ users:
     groups:
     - user
     name: JollyGirls
+  908cb350-26f6-4346-a803-b679ad1bcabf:
+    groups:
+    - user
+    name: Sircular
+  cfbd1005-2967-4b59-9172-32e174d62b9b:
+    groups:
+    - user
+  0a271bab-9a4d-4a84-8b80-d433daee23f6:
+    groups:
+    - user
 groups:
   default:
     permissions:

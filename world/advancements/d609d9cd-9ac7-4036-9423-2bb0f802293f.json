@@ -267,6 +267,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-04-20 15:05:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2020-04-12 16:17:06 -0500"
@@ -1220,6 +1226,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-04-20 15:05:21 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2020-04-12 16:43:10 -0500"
@@ -1283,6 +1295,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-04-20 14:58:35 -0500"
     },
     "done": true
   },
@@ -1648,6 +1666,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-04-15 11:10:55 -0500",
+      "minecraft:cold_ocean": "2020-04-20 14:46:23 -0500",
       "minecraft:forest": "2020-04-15 11:11:38 -0500",
       "minecraft:mountains": "2020-04-15 11:12:17 -0500",
       "minecraft:taiga": "2020-04-15 11:11:31 -0500",
@@ -1770,6 +1789,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-04-13 11:44:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-04-20 14:57:33 -0500"
     },
     "done": true
   },
@@ -1896,6 +1921,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-12 17:20:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-04-20 14:58:35 -0500"
     },
     "done": true
   },
