@@ -1611,6 +1611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-04-21 12:51:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-02-20 21:40:22 -0600"
@@ -3376,6 +3382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-04-21 12:51:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-03 11:49:33 -0500"
@@ -3415,6 +3427,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-02-20 21:22:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-04-21 12:06:20 -0500"
     },
     "done": true
   },
