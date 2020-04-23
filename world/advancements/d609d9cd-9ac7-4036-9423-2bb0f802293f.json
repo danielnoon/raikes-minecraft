@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-04-22 09:44:33 -0500"
     },
     "done": true
   },
@@ -315,6 +333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-04-17 13:24:26 -0500"
@@ -358,6 +382,18 @@
       "melon_slice": "2020-04-12 17:12:14 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -425,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-16 17:46:24 -0500"
@@ -479,15 +521,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-04-18 10:32:47 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2020-04-12 16:43:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-04-22 09:36:51 -0500"
     },
     "done": true
   },
@@ -683,6 +743,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2020-04-12 17:14:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-22 09:36:51 -0500"
     },
     "done": true
   },
@@ -898,10 +964,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-04-22 09:45:45 -0500",
       "minecraft:skeleton": "2020-04-12 17:12:41 -0500",
       "minecraft:spider": "2020-04-17 10:49:58 -0500",
       "minecraft:creeper": "2020-04-15 11:38:02 -0500",
+      "minecraft:phantom": "2020-04-22 14:29:06 -0500",
       "minecraft:wither_skeleton": "2020-04-13 11:44:18 -0500",
+      "minecraft:husk": "2020-04-22 14:30:44 -0500",
       "minecraft:cave_spider": "2020-04-15 11:56:26 -0500",
       "minecraft:enderman": "2020-04-12 17:22:36 -0500",
       "minecraft:silverfish": "2020-04-15 11:17:29 -0500",
@@ -1010,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-22 09:45:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-12 16:17:06 -0500"
@@ -1031,6 +1106,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
@@ -1250,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2020-04-12 16:25:52 -0500"
@@ -1352,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-04-12 16:17:06 -0500"
@@ -1373,6 +1466,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-16 18:12:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
@@ -1451,6 +1550,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
@@ -1597,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2020-04-15 12:09:37 -0500"
@@ -1654,6 +1765,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-04-12 16:17:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
@@ -1975,6 +2092,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-04-12 17:20:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-22 09:30:15 -0500"
     },
     "done": true
   },
