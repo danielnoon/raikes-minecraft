@@ -1,13 +1,19 @@
+[00:02:11] [Server thread/WARN]: Fetching packet for removed entity bab[''/75483, l='world', x=-168.04, y=69.00, z=508.53]
+[00:02:11] [Server thread/WARN]: Fetching packet for removed entity bab[''/75483, l='world', x=-168.04, y=69.00, z=508.53]
+[00:17:50] [Server thread/INFO]: I_Hate_Lag_ lost connection: Disconnected
+[00:17:50] [Server thread/INFO]: I_Hate_Lag_ left the game
+[00:17:52] [Server thread/INFO]: Amaz lost connection: Disconnected
+[00:17:52] [Server thread/INFO]: Amaz left the game
 [03:00:02] [Server thread/INFO]: Stopping server
 [03:00:02] [Server thread/INFO]: Saving players
 [03:00:02] [Server thread/INFO]: Saving worlds
+[03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
 [03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[03:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:00:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[03:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:00:03] [Server thread/INFO]: Thread Query Listener stopped
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:00:02] [Server thread/INFO]: Thread Query Listener stopped
