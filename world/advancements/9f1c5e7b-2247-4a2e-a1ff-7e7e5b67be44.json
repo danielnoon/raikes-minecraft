@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-27 20:48:55 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-20 17:43:15 -0500"
@@ -317,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-04-25 16:23:24 -0500"
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2020-04-25 22:27:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -407,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-03-20 17:49:08 -0500"
@@ -416,6 +440,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-20 17:49:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -720,6 +750,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-04-27 21:49:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-03 14:15:41 -0500"
@@ -879,6 +915,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2020-03-27 21:43:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -1062,6 +1104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-04-27 20:57:04 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-04-03 21:10:28 -0500"
@@ -1167,6 +1215,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2020-04-20 21:07:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-27 20:53:04 -0500"
     },
     "done": true
   },
@@ -1428,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-03-21 13:02:02 -0500"
@@ -1470,6 +1530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2020-03-24 18:42:41 -0500"
@@ -1479,24 +1545,33 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-03-21 12:33:05 -0500",
+      "minecraft:cold_ocean": "2020-04-27 20:41:36 -0500",
+      "minecraft:snowy_mountains": "2020-04-27 21:31:54 -0500",
       "minecraft:forest": "2020-03-20 17:40:36 -0500",
       "minecraft:mountains": "2020-03-24 17:59:32 -0500",
       "minecraft:taiga": "2020-03-21 13:28:59 -0500",
       "minecraft:desert_hills": "2020-03-21 12:11:03 -0500",
+      "minecraft:deep_cold_ocean": "2020-04-27 20:41:39 -0500",
+      "minecraft:snowy_tundra": "2020-04-27 21:31:24 -0500",
       "minecraft:taiga_hills": "2020-03-26 20:35:30 -0500",
       "minecraft:desert": "2020-03-21 12:10:53 -0500",
+      "minecraft:frozen_river": "2020-04-27 21:32:20 -0500",
       "minecraft:jungle": "2020-03-21 12:59:56 -0500",
       "minecraft:birch_forest": "2020-03-20 18:29:44 -0500",
+      "minecraft:snowy_beach": "2020-04-27 20:46:24 -0500",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 23:42:44 -0500",
+      "minecraft:badlands": "2020-04-27 20:48:04 -0500",
       "minecraft:savanna_plateau": "2020-03-27 21:38:42 -0500",
       "minecraft:beach": "2020-03-30 17:41:46 -0500",
       "minecraft:dark_forest": "2020-03-20 18:03:10 -0500",
       "minecraft:river": "2020-03-20 18:29:49 -0500",
       "minecraft:lukewarm_ocean": "2020-03-30 17:45:21 -0500",
+      "minecraft:snowy_taiga": "2020-04-27 21:09:24 -0500",
       "minecraft:birch_forest_hills": "2020-03-20 18:30:46 -0500",
       "minecraft:wooded_mountains": "2020-03-26 21:30:43 -0500",
       "minecraft:wooded_hills": "2020-03-20 17:31:30 -0500",
       "minecraft:stone_shore": "2020-04-24 23:38:17 -0500",
+      "minecraft:wooded_badlands_plateau": "2020-04-27 20:55:21 -0500",
       "minecraft:swamp": "2020-04-25 22:58:02 -0500",
       "minecraft:savanna": "2020-03-27 21:38:37 -0500",
       "minecraft:plains": "2020-03-20 17:30:35 -0500"
@@ -1803,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-03-20 17:44:48 -0500"
@@ -1851,6 +1932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-25 21:52:02 -0500"
@@ -1860,6 +1947,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2020-04-03 14:15:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -2183,6 +2276,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-03-20 17:43:15 -0500"
@@ -2285,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-03-20 17:40:52 -0500"
@@ -2306,6 +2411,12 @@
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2020-04-20 21:07:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2020-04-27 20:57:51 -0500"
     },
     "done": true
   },
@@ -2447,6 +2558,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-04-10 21:52:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-04-27 20:50:17 -0500"
     },
     "done": true
   },
@@ -2672,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-04-27 20:59:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-04-25 22:55:40 -0500"
@@ -2876,6 +2999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-04-27 21:14:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-26 21:18:18 -0500"
@@ -2939,6 +3068,12 @@
   "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
       "has_blue_terracotta": "2020-04-16 15:50:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -3038,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-20 17:51:42 -0500"
@@ -3053,6 +3194,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_jungle_planks": "2020-03-21 13:17:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },
@@ -3101,6 +3248,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-03-20 18:53:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-04-27 20:50:07 -0500"
     },
     "done": true
   },

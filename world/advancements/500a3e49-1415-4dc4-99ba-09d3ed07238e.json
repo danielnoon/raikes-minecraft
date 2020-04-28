@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-27 20:48:52 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-20 17:41:37 -0500"
@@ -416,6 +422,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-03-25 21:43:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-04-27 21:35:09 -0500"
     },
     "done": true
   },
@@ -617,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-04-27 21:35:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-20 17:41:35 -0500"
@@ -746,6 +764,12 @@
       "minecraft:zombie_villager": "2020-03-28 20:09:06 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-04-27 20:54:21 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -1107,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2020-04-27 20:55:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2020-04-03 21:39:13 -0500"
@@ -1230,6 +1260,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-04-26 14:35:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-27 20:55:08 -0500"
     },
     "done": true
   },
@@ -1566,21 +1602,29 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-03-21 12:33:11 -0500",
+      "minecraft:cold_ocean": "2020-04-27 20:41:36 -0500",
+      "minecraft:snowy_mountains": "2020-04-27 21:31:54 -0500",
       "minecraft:forest": "2020-03-20 17:40:55 -0500",
       "minecraft:mountains": "2020-03-20 17:34:36 -0500",
       "minecraft:taiga": "2020-03-20 18:29:58 -0500",
       "minecraft:desert_hills": "2020-03-21 12:10:59 -0500",
+      "minecraft:deep_cold_ocean": "2020-04-27 20:41:39 -0500",
+      "minecraft:snowy_tundra": "2020-04-27 21:31:29 -0500",
       "minecraft:taiga_hills": "2020-03-26 21:15:08 -0500",
       "minecraft:desert": "2020-03-21 12:10:53 -0500",
+      "minecraft:frozen_river": "2020-04-27 21:32:17 -0500",
       "minecraft:jungle": "2020-03-21 12:33:21 -0500",
       "minecraft:birch_forest": "2020-03-21 12:06:53 -0500",
       "minecraft:jungle_hills": "2020-03-21 12:58:47 -0500",
+      "minecraft:snowy_beach": "2020-04-27 20:46:20 -0500",
       "minecraft:deep_lukewarm_ocean": "2020-04-24 23:42:46 -0500",
+      "minecraft:badlands": "2020-04-27 20:48:03 -0500",
       "minecraft:savanna_plateau": "2020-03-27 21:38:35 -0500",
       "minecraft:beach": "2020-03-30 17:26:17 -0500",
       "minecraft:dark_forest": "2020-03-20 18:03:07 -0500",
       "minecraft:river": "2020-03-20 18:29:46 -0500",
       "minecraft:lukewarm_ocean": "2020-04-24 23:41:44 -0500",
+      "minecraft:snowy_taiga": "2020-04-27 20:46:24 -0500",
       "minecraft:birch_forest_hills": "2020-03-21 12:07:17 -0500",
       "minecraft:wooded_mountains": "2020-03-26 21:30:32 -0500",
       "minecraft:wooded_hills": "2020-03-20 17:26:10 -0500",
@@ -1768,6 +1812,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-24 22:49:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-04-27 21:35:09 -0500"
     },
     "done": true
   },
@@ -2577,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-04-27 20:52:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-03-20 17:40:14 -0500"
@@ -2796,6 +2852,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-20 18:10:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-04-27 20:54:17 -0500"
     },
     "done": true
   },
