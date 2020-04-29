@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-04-28 22:34:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-20 18:30:30 -0500"
@@ -212,6 +218,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-28 20:25:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-04-28 22:04:25 -0500"
     },
     "done": true
   },
@@ -575,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-28 23:21:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-20 18:30:38 -0500"
@@ -749,6 +767,7 @@
       "minecraft:blaze": "2020-04-03 21:28:00 -0500",
       "minecraft:skeleton": "2020-03-20 17:59:22 -0500",
       "minecraft:ghast": "2020-04-05 17:53:08 -0500",
+      "minecraft:hoglin": "2020-04-28 22:35:02 -0500",
       "minecraft:magma_cube": "2020-04-03 21:40:49 -0500",
       "minecraft:spider": "2020-03-20 17:31:18 -0500",
       "minecraft:creeper": "2020-03-20 17:32:44 -0500",
@@ -758,6 +777,7 @@
       "minecraft:witch": "2020-03-28 19:47:40 -0500",
       "minecraft:wither_skeleton": "2020-04-03 13:53:43 -0500",
       "minecraft:husk": "2020-03-27 21:34:10 -0500",
+      "minecraft:piglin": "2020-04-28 22:27:57 -0500",
       "minecraft:enderman": "2020-03-24 16:45:27 -0500",
       "minecraft:zombie": "2020-03-20 17:34:48 -0500",
       "minecraft:drowned": "2020-03-30 17:39:37 -0500",
@@ -2801,6 +2821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2020-04-28 21:40:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-24 16:30:59 -0500"
@@ -3302,6 +3328,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-03-21 13:31:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-04-28 22:34:36 -0500"
     },
     "done": true
   },
