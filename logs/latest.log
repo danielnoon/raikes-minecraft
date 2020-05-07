@@ -1,13 +1,19 @@
-[03:00:01] [Server thread/INFO]: Stopping server
-[03:00:01] [Server thread/INFO]: Saving players
-[03:00:01] [Server thread/INFO]: Saving worlds
-[03:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[03:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[03:00:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:00:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:23:40] [User Authenticator #2/INFO]: UUID of player Sircular is 908cb350-26f6-4346-a803-b679ad1bcabf
+[01:23:41] [Server thread/INFO]: Sircular[/67.3.187.213:42980] logged in with entity id 2042 at (-611.6999999880791, 16.0, -694.4608744458172)
+[01:23:41] [Server thread/INFO]: Sircular joined the game
+[01:37:00] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=-650, y=17, z=-844} fp{x=-651, y=17, z=-844}
+[02:00:45] [Server thread/INFO]: Sircular lost connection: Disconnected
+[02:00:45] [Server thread/INFO]: Sircular left the game
+[03:00:02] [Server thread/INFO]: Stopping server
+[03:00:02] [Server thread/INFO]: Saving players
+[03:00:02] [Server thread/INFO]: Saving worlds
+[03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
 [03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
 [03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:00:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [03:00:02] [Server thread/INFO]: Thread Query Listener stopped
