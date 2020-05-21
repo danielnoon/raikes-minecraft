@@ -626,12 +626,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-03-12 21:08:33 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-25 00:28:07 -0500"
@@ -723,15 +717,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_cobblestone": "2020-03-12 19:59:36 -0500"
+      "has_redstone": "2020-05-20 14:59:30 -0500"
     },
     "done": true
   },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 19:59:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-03-12 19:59:36 -0500"
     },
     "done": true
   },
@@ -975,13 +975,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-03-16 23:03:01 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-03-16 23:03:01 -0500"
     },
@@ -1152,6 +1152,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-03-25 00:28:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-05-20 14:59:30 -0500"
     },
     "done": true
   },
@@ -1497,12 +1503,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-03-12 18:31:00 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-12 20:18:56 -0500"
@@ -1607,7 +1607,7 @@
   },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
-      "has_log": "2020-03-12 20:28:41 -0500"
+      "has_logs": "2020-05-20 14:59:30 -0500"
     },
     "done": true
   },
@@ -1637,7 +1637,7 @@
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_string": "2020-03-12 21:32:02 -0500"
+      "has_paper": "2020-05-20 14:59:30 -0500"
     },
     "done": true
   },
@@ -2102,13 +2102,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-25 00:29:56 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-25 00:29:56 -0500"
     },
@@ -2180,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-05-20 14:59:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-03-12 19:59:36 -0500"
@@ -2222,5 +2228,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2529
 }
