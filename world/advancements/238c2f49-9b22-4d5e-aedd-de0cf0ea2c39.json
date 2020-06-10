@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-06-09 20:14:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-05-09 10:40:41 -0500"
@@ -122,6 +128,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-05-09 10:39:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-06-09 20:09:30 -0500"
     },
     "done": true
   },
@@ -215,6 +227,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-06-09 20:14:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-06-09 20:14:47 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2020-05-09 10:35:52 -0500"
@@ -233,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-06-09 19:55:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2020-05-09 10:40:41 -0500"
@@ -241,9 +271,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-06-09 20:11:23 -0500",
       "bread": "2020-05-09 10:46:07 -0500",
       "rotten_flesh": "2020-05-09 10:32:01 -0500",
-      "melon_slice": "2020-05-09 10:42:14 -0500"
+      "melon_slice": "2020-05-09 10:42:14 -0500",
+      "cooked_chicken": "2020-06-09 19:56:21 -0500"
     },
     "done": false
   },
@@ -719,6 +751,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-05-09 10:40:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-06-09 20:14:47 -0500"
     },
     "done": true
   },
