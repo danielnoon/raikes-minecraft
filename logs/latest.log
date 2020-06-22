@@ -1,1 +1,30 @@
-[03:00:01] [Server thread/INFO]: Stopping server
+[03:00:21] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[03:00:22] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[03:00:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:00:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:00:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:00:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:00:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:00:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:00:23] [Server thread/INFO]: Starting minecraft server version 20w17a
+[03:00:23] [Server thread/INFO]: Loading properties
+[03:00:23] [Server thread/INFO]: Default game type: SURVIVAL
+[03:00:23] [Server thread/INFO]: Generating keypair
+[03:00:24] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[03:00:24] [Server thread/INFO]: Using epoll channel type
+[03:00:24] [Server thread/INFO]: Preparing level "world"
+[03:00:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[03:01:21] [Server thread/INFO]: Loaded 6 recipes
+[03:01:34] [Server thread/INFO]: Loaded 908 advancements
+[03:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:38] [Server thread/INFO]: Preparing spawn area: 19%
+[03:01:39] [Server thread/INFO]: Time elapsed: 3079 ms
+[03:01:39] [Server thread/INFO]: Done (74.714s)! For help, type "help"
+[03:01:39] [Server thread/INFO]: Starting GS4 status listener
+[03:01:39] [Server thread/INFO]: Thread Query Listener started
+[03:01:39] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
